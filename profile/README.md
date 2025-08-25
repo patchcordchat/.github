@@ -24,5 +24,4 @@ Get Patchcord for your platform [from the website](https://patchcord.fun/downloa
 
 | Repository                                                        | Description             |               Maintainer(s)                      |
 | ----------------------------------------------------------------- | ----------------------- | :----------------------------------------------: |
-| [kotlin backend](https://github.com/patchcordchat/backend-kotlin) | Kotlin backend services | [@guttedgarden](https://github.com/guttedgarden) |
 | [golang backend](https://github.com/patchcordchat/backend-golang) | Golang backend services | [@FIZIS-net](https://github.com/FIZIS-net)       |
