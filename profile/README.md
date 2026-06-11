@@ -2,6 +2,10 @@
 
 **Patchcord** is a cross-platform proprietary instant messenger with VoIP and video conferencing support, designed for use by various communities of interest.
 
+<p align="center">
+  <img src="/screenshots/2026-06.png" alt="Screenshot of the Patchcord." />
+</p>
+
 # Links
 
 - ### [🌍 Website](https://patchcord.org): The Patchcord official website.
