@@ -6,14 +6,6 @@
   <img src="/screenshots/2026-06.png" alt="Screenshot of the Patchcord." />
 </p>
 
-# Links
-
-- ### [🌍 Website](https://patchcord.org): The Patchcord official website.
-
-# Get Patchcord
-
-Get Patchcord for your platform [from the website](https://patchcord.org/download)!
-
 # Repositories
 
 ## Clients
